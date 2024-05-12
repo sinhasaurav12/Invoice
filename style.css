@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #1d2630;
+}
+.container{
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 15px;
+}
+h2{
+    color: #0B5ED7;
+}
+th, td{
+    text-align: center;
+}
+#totalAmount{
+    font-weight: bold;
+}
